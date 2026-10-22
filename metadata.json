@@ -1,0 +1,6 @@
+{
+  "name": "ShopEasy Store",
+  "description": "A modern, full-stack online shopping platform inspired by Amazon and Flipkart with product catalogs, live search, categories, persistent cart, customer authentication, order history, and simulated checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
